@@ -7,3 +7,4 @@
 5-THE PROJECT IS WORKING...
 
 //Login to use admin panel. (ID: Yunus PW: Yunus1.)
+//You can create your own account.
